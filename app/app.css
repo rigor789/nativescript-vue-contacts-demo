@@ -1,0 +1,26 @@
+﻿@import 'nativescript-theme-core/css/core.light.css';
+
+action-bar {
+    background-color: #01a0ec;
+    color: #eee;
+}
+
+.tab-title {
+    font-size: 40;
+    margin-top: 20;
+    margin-left: 10;
+    color: #fff;
+}
+
+.contact-list-item {
+    padding: 10 20;
+}
+
+.contact-name {
+    font-size: 25;
+    color: #009c9b;
+}
+
+.contact-phone {
+    color: #2b2b2b;
+}
